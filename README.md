@@ -57,12 +57,12 @@ This report provides actionable insights and detailed implementation plans acros
    - Macroeconomic Considerations
    - Market Trends and Growth Drivers
 
-10. [**Financial Model Documentation**](/makhana_export_business/financial_model/financial_model_documentation.md)
+10. [**Financial Model Documentation**](/makhana_export_business/financial_model_documentation.md)
     - Revenue Projections and Cost Structure
     - Capital Requirements and Funding
     - Profitability Analysis and Return Metrics
 
-11. [**Financial Model Spreadsheet**](/makhana_export_business/financial_model/makhana_export_financial_model.py)
+11. [**Financial Model Spreadsheet**](/makhana_export_business/makhana_export_financial_model.py)
     - Interactive Financial Model with Adjustable Variables
     - Comprehensive Projections and Analysis
     - Scenario Planning Capabilities
