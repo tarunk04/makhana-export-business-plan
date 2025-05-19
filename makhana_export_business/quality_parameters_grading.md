@@ -11,6 +11,7 @@ This comprehensive analysis examines the established quality parameters, grading
 ## Key Quality Parameters for Makhana
 
 ### 1. Size and Diameter
+![](https://github.com/tarunk04/makhana-export-business-plan/blob/main/makhana_export_business/makhana_grades_comparison.png)
 
 Size is the most fundamental quality parameter for makhana and serves as the primary basis for grading and pricing. In the traditional Indian system, makhana size is measured using a unit called "Soota" (also spelled "Sutta").
 
@@ -34,7 +35,7 @@ Based on this measurement system, makhana is classified into different size cate
 For export markets, the size consistency within a batch is as important as the average size. High-quality export batches should have a size variation of less than 10% to ensure uniform appearance and cooking properties.
 
 ### 2. Color and Appearance
-
+![](https://github.com/tarunk04/makhana-export-business-plan/blob/main/makhana_export_business/makhana_color_quality.png)
 The color of makhana is a critical quality indicator that significantly impacts market value and consumer acceptance. The ideal color characteristics include:
 
 #### Color Grading Scale:
@@ -56,6 +57,7 @@ The presence of reddish or brown spots on makhana is typically caused by:
 For export quality, makhana should have a uniform, bright white appearance with minimal spotting. Premium markets in the USA, UK, and UAE particularly value the aesthetic appeal of spotless, white makhana.
 
 ### 3. Expansion Quality and Texture
+![](https://github.com/tarunk04/makhana-export-business-plan/blob/main/makhana_export_business/makhana_expansion_quality.png)
 
 The expansion quality refers to how well the makhana has "popped" or puffed during processing. This parameter affects both the visual appeal and the textural experience of the product.
 
