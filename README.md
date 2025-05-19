@@ -12,138 +12,79 @@ This report provides actionable insights and detailed implementation plans acros
 
 ## Table of Contents
 
-1. **Company Setup and Regulatory Requirements**
+1. [**Company Setup and Regulatory Requirements**](/makhana_export_business/company_setup.md)
    - Business Structure Analysis
    - Registration and Compliance Requirements
    - Government Initiatives and Support Programs
 
-2. **Market Analysis and Export Opportunities**
+2. [**Market Analysis and Export Opportunities**](/makhana_export_business/export_markets.md)
    - Target Market Assessment
    - Demand Analysis and Growth Projections
    - Competitor Landscape
 
-3. **Export Channels and Logistics**
+3. [**Export Channels and Logistics**](/makhana_export_business/export_channels_logistics.md)
    - Export Process and Documentation
    - Logistics Requirements by Country
    - Comparative Analysis of Export Channels
 
-4. **Export-Import Duties and Trade Regulations**
+4. [**Export-Import Duties and Trade Regulations**](/makhana_export_business/export_import_duties.md)
    - Tariff Structure Analysis
    - Non-Tariff Barriers
    - Trade Agreement Benefits
 
-5. **Procurement and Processing**
+5. [**Procurement and Processing**](/makhana_export_business/procurement_processing.md)
    - Sourcing Regions and Quality Assessment
    - Processing Methods and Technology
    - Supply Chain Optimization
 
-6. **Quality Parameters and Grading**
+6. [**Quality Parameters and Grading**](/makhana_export_business/quality_parameters_grading.md)
    - Quality Standards and Certification
    - Visual Identification Guide
    - Grading Systems and Specifications
 
-7. **Product Development and Innovation**
+7. [**Visual Quality Guide**](/makhana_export_business/makhana_visual_guide.md)
+   - Visual Identification Guide with Images
+   - Quality Comparison Across Grades
+   - Defect Identification and Assessment
+
+8. [**Product Development and Innovation**](/makhana_export_business/product_ideas.md)
    - Product Concepts and Specifications
    - Packaging and Presentation
    - Value Addition Opportunities
 
-8. **Economic Analysis**
+9. [**Economic Analysis**](/makhana_export_business/economic_analysis.md)
    - Microeconomic Factors
    - Macroeconomic Considerations
    - Market Trends and Growth Drivers
 
-9. **Financial Model**
-   - Revenue Projections and Cost Structure
-   - Capital Requirements and Funding
-   - Profitability Analysis and Return Metrics
+10. [**Financial Model Documentation**](/makhana_export_business/financial_model/financial_model_documentation.md)
+    - Revenue Projections and Cost Structure
+    - Capital Requirements and Funding
+    - Profitability Analysis and Return Metrics
 
-10. **Challenges and Solutions**
+11. [**Financial Model Spreadsheet**](/makhana_export_business/financial_model/makhana_export_financial_model.py)
+    - Interactive Financial Model with Adjustable Variables
+    - Comprehensive Projections and Analysis
+    - Scenario Planning Capabilities
+
+12. [**Challenges and Solutions**](/makhana_export_business/challenges_and_solutions.md)
     - Supply Chain Challenges
     - Regulatory and Compliance Challenges
     - Market Entry and Competitive Challenges
     - Financial and Operational Challenges
     - Sustainability and Environmental Challenges
 
-11. **Five-Year Roadmap**
+13. [**Five-Year Roadmap**](/makhana_export_business/five_year_roadmap.md)
     - Phase 1: Foundation Building (Months 1-12)
     - Phase 2: Growth Acceleration (Months 13-24)
     - Phase 3: Expansion and Diversification (Months 25-36)
     - Phase 4: Scaling and Optimization (Months 37-48)
     - Phase 5: Strategic Leadership (Months 49-60)
 
-12. **Milestone Summary and Implementation Strategy**
+14. [**Milestone Summary and Implementation Strategy**](/makhana_export_business/five_year_roadmap.md)
     - Key Milestones and Timeline
     - Critical Success Factors
     - Implementation Approach
-
-## Detailed Report Files
-
-The complete analysis is provided in the following detailed files:
-
-1. **Company Setup**: `/makhana_export_business/company_setup.md`
-   - Comprehensive analysis of business structure options
-   - Detailed registration and compliance requirements
-   - Government initiatives and support programs
-
-2. **Export Markets**: `/makhana_export_business/export_markets.md`
-   - Analysis of top export markets with demand projections
-   - Market entry strategies and buyer profiles
-   - Competitive landscape assessment
-
-3. **Export Channels and Logistics**: `/makhana_export_business/export_channels_logistics.md`
-   - Detailed export process workflows
-   - Logistics requirements by country
-   - Comparative analysis of export channels
-
-4. **Export-Import Duties**: `/makhana_export_business/export_import_duties.md`
-   - Comprehensive tariff analysis by country
-   - Non-tariff barriers and compliance requirements
-   - Trade agreement benefits and opportunities
-
-5. **Procurement and Processing**: `/makhana_export_business/procurement_processing.md`
-   - Sourcing regions and quality assessment
-   - Processing methods and technology options
-   - Supply chain optimization strategies
-
-6. **Quality Parameters and Grading**: `/makhana_export_business/quality_parameters_grading.md`
-   - Detailed quality standards and specifications
-   - Testing and certification requirements
-   - Grading systems and quality control processes
-
-7. **Visual Quality Guide**: `/makhana_export_business/makhana_visual_guide.md`
-   - Visual identification guide with images
-   - Quality comparison across grades
-   - Defect identification and assessment
-
-8. **Product Ideas**: `/makhana_export_business/product_ideas.md`
-   - Detailed product concepts and specifications
-   - Packaging and presentation strategies
-   - Value addition opportunities
-
-9. **Economic Analysis**: `/makhana_export_business/economic_analysis.md`
-   - Comprehensive micro and macro economic analysis
-   - Market trends and growth drivers
-   - Economic sensitivity analysis
-
-10. **Financial Model Documentation**: `/makhana_export_business/financial_model/financial_model_documentation.md`
-    - Detailed explanation of financial projections
-    - Assumptions and variables
-    - Scenario analysis and risk assessment
-
-11. **Financial Model Spreadsheet**: `/makhana_export_business/financial_model/makhana_export_financial_model.py`
-    - Interactive financial model with adjustable variables
-    - Comprehensive projections and analysis
-    - Scenario planning capabilities
-
-12. **Challenges and Solutions**: `/makhana_export_business/challenges_and_solutions.md`
-    - Detailed analysis of business challenges
-    - Actionable solutions and implementation strategies
-    - Risk mitigation approaches
-
-13. **Five-Year Roadmap**: `/makhana_export_business/five_year_roadmap.md`
-    - Comprehensive strategic development plan
-    - Phased implementation approach
-    - Milestone tracking and success metrics
 
 ## Key Findings and Recommendations
 
